@@ -1,4 +1,4 @@
-# 🚀 Jason’s Ultimate Cross-Platform Dev Environment Setup
+# Ultimate Cross-Platform Dev Environment Setup
 
 This repository automates your **JavaScript / React / TypeScript** development setup on **Linux**, **macOS**, and **WSL** — complete with **VS Code**, **Vim**, and **Next.js + TailwindCSS**.
 
