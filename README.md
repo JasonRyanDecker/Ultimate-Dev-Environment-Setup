@@ -23,3 +23,10 @@ This repository automates your **JavaScript / React / TypeScript** development s
 git clone https://github.com/jasonryandecker/Ultimate-Dev-Environment.git
 cd dev-env-setup
 make setup
+```
+
+or 
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/jasonryandecker/Ultimate-Dev-Environment-Setup/main/setup-dev-env.sh)
+```
