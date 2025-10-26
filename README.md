@@ -18,14 +18,21 @@ This script installs:
 
 🚀 Quick Start
 1. Clone this repo
+
+``
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+``
 
-2. Make the setup script executable
+3. Make the setup script executable
+``
 chmod +x setup-dev-env.sh
+``
 
-3. Run the setup
+5. Run the setup
+``
 ./setup-dev-env.sh
+``
 
 
 That’s it! Sit back, grab a drink, and let the magic happen. ✨
