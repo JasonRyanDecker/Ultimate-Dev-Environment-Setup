@@ -20,6 +20,6 @@ This repository automates your **JavaScript / React / TypeScript** development s
 ## 🧠 Quick Start
 
 ```bash
-git clone https://github.com/jasonryandecker/dev-env-setup.git
+git clone https://github.com/jasonryandecker/Ultimate-Dev-Environment.git
 cd dev-env-setup
 make setup
